@@ -1,3 +1,7 @@
+![System Architecture](https://img.shields.io/badge/Architecture-Cybernetics%20%26%20Topology-blue)
+![Model Version](https://img.shields.io/badge/Version-v1.1.0-green)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
 H-SDRM Model (v1.1.0)
 Helical-Decay Swing & Disaster Recovery Model
 螺旋衰減擺盪與系統崩潰重構模型宣言
